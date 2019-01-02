@@ -1,0 +1,2 @@
+# littleaspnetcore
+dotnet run
